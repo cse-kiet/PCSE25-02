@@ -1,15 +1,13 @@
-# Title of Project: [PROJECT_TITLE_HERE]
+# Title of Project: PLANT DISEASE DETECTION USING CONVOLUTIONAL NEURAL NETWORKS
 
 ## Team Members:
-1. [TEAM_MEMBER_1_NAME]
-2. [TEAM_MEMBER_2_NAME]
-3. [TEAM_MEMBER_3_NAME]
-4. [TEAM_MEMBER_4_NAME]
+1. AASHIRWAD
+2. ISHIKA JAGGI
+3. ASHUTOSH KUMAR
 
 ## Steps for Execution:
-1. [STEP 1]
-2. [STEP 2]
-   (Add more steps as needed)
+1. Download the dataset from kaggle.
+2. Import the data in the colab file.
 
 ## Checklist:
 1. Final Project Report
