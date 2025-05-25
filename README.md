@@ -8,6 +8,7 @@
 ## Steps for Execution:
 1. Download the dataset from kaggle.
 2. Import the data in the colab file.
+3. Run the code in the colab file on google colab
 
 ## Checklist:
 1. Final Project Report
